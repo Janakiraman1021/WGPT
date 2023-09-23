@@ -1,0 +1,9 @@
+1.python 
+2.install golang
+3. install tdm gcc
+4. crate new in gcc and install it
+5.then install packages
+	1.flask
+	2.playwright
+	3.virtualenv
+	then run "playwright" in cmd
