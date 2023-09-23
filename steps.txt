@@ -7,3 +7,12 @@
 	2.playwright
 	3.virtualenv
 	then run "playwright" in cmd
+
+
+
+
+
+
+git remote add origin https://github.com/Janakiraman1021/WGPT.git
+git branch -M main
+git push -u origin main
